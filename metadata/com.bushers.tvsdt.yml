@@ -1,0 +1,9 @@
+AuthorName: 'Bushers Electronics'
+Categories:
+- TV
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/busherscom/tvsdt-android/issues'
+Name: BUSHERS TVSDT
+SourceCode: 'https://github.com/busherscom/tvsdt-android'
+Summary: 'TV System Debugging Tool for Android devices '
+WebSite: 'https://bushers.com'

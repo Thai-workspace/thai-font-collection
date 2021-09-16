@@ -1,0 +1,8 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+*.apk
+keystore.jks
+tmp/
+config.py
